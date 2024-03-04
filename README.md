@@ -1,6 +1,6 @@
 # PROJECTNAME
 
-## Overview
+## Overview 
 
 Our security tools have alerted us to a malicious actor that is brute forcing accounts for the website. We need you to investigate, find out where the attack is coming from, if they were successful, and if they were, what did they do with their access. This is an extremely time-sensitive investigation, every second is potentially more time the attacker has control over systems on the server. As a starting point, we know the administrator URL is http:// imreallynotbatman. com/joomla/administrator/index.php and that usernames and passwords will be submitted in an HTTP POST request.
 
